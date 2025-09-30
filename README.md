@@ -17,18 +17,13 @@ This project demonstrates the complete product management lifecycle:
 - Increase canteen throughput by 25%
 
 ## 📊 Deliverables
-- [Final Case Study PDF](documents/Smart_Canteen_Ordering_Case_Study.pdf)
-- [Wireframes](wireframes/)
+- Final Case Study PDF
+- Wireframes
 - The KPI dashboard was built in **Power BI** using the project dataset.
 
 	- Tracks Average Wait Time, Orders per Hour, Order Accuracy, Repeat Rate
 	- Includes KPI Cards, Line Charts, Comparison Chart, and Gauges
 	- Shows progress against baseline and target values
-
-		### Files:
-			- `dashboard/Smart_Canteen_Dashboard.pbix` → Full Power BI dashboard (open in Power BI Desktop)
-			- `dashboard/Smart_Canteen_Dashboard.png` → Screenshot preview
-			- `data/Smart_Canteen_Metrics_Dashboard.xlsx` → Data source used for building dashboard
 
 ## 🚀 Tools Used
 - Google Forms (survey)
@@ -37,4 +32,4 @@ This project demonstrates the complete product management lifecycle:
 - Power BI (dashboard)
 
 ## 🔗 Showcase
-- [LinkedIn Post](#) (to be added after posting)
+- 
