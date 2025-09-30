@@ -32,4 +32,4 @@ This project demonstrates the complete product management lifecycle:
 - Power BI (dashboard)
 
 ## 🔗 Showcase
-- 
+- https://www.linkedin.com/posts/prathamesh-raghuvanshi-006200278_smart-canteen-ordering-case-study-activity-7378667453096161280-UssI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOpWAYBAQaGKUelfBXP8EkuneaJzFDFcPU
